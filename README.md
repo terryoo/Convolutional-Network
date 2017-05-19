@@ -37,7 +37,7 @@ on local color and texture only.
 
 ## Quantitative and Subjective Results 
 <p align="center">
-<img src="/docs/PRROCcurves.PNG" width="500">
+<img src="/docs/PRROCcurves.PNG" width="400">
 
 <em>Comparison of PR and ROC curves</em>
 </p>
