@@ -1,11 +1,13 @@
 # Convolutional Neural Networks and Training Strategies for Skin Detection (ICIP 2017)
 
+## Proposed Training Strategies
 <p align="center">
 <img src="/docs/imagebasedcolor.png" width="700"> 
 <img src="/docs/patch_based_color.png" width="700">
 </p>
 
-1. Abstract
+## Abstract
+
 This paper presents two convolutional neural networks (CNN) and their 
 training strategies for skin detection.
 The first CNN consists
