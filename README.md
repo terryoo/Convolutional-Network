@@ -48,6 +48,9 @@ on local color and texture only.
 <em>Visual comparison with outher methods on the Pratheepan dataset</em>
 </p>
 
+## All Experimental results on ECU, Pratheepan, and HGR dataset
+Our results
+
 
 
 
