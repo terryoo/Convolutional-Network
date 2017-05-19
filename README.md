@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-<img src="/docs/PRROCcurves.png" width="700"> 
-<img src="/docs/res1.png" width="700">
-<img src="/docs/res2.png" width="700">
+<img src="/docs/PRROCcurves.PNG" width="700"> 
+<img src="/docs/res1.PNG" width="700">
+<img src="/docs/res2.PNG" width="700">
 </p>
 
 
