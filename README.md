@@ -40,8 +40,12 @@ on local color and texture only.
 <img src="/docs/PRROCcurves.PNG" width="500">
 
 <em>Comparison of PR and ROC curves</em>
+</p>
 
+<p align="center">
 <img src="/docs/res1.PNG" width="500">
+
+<em>Visual comparison with outher methods on the Pratheepan dataset</em>
 </p>
 
 
