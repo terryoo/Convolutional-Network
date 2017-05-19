@@ -32,7 +32,8 @@ yields better accuracy
 than the patch-based learning that focuses 
 on local color and texture only.
 
-
+## All Experimental results on ECU, Pratheepan, and HGR dataset
+Our results
 
 
 ## Quantitative and Subjective Results 
@@ -48,8 +49,7 @@ on local color and texture only.
 <em>Visual comparison with outher methods on the Pratheepan dataset</em>
 </p>
 
-## All Experimental results on ECU, Pratheepan, and HGR dataset
-Our results
+
 
 
 
