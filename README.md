@@ -32,14 +32,15 @@ yields better accuracy
 than the patch-based learning that focuses 
 on local color and texture only.
 
-## Proposed Training Strategies and Network
-<p align="center">
-<img src="/docs/imagebasedcolor.png" width="700"> 
-<img src="/docs/patch_based_color.png" width="700">
-</p>
+
+
+
 ## Quantitative and Subjective Results 
 <p align="center">
-<img src="/docs/PRROCcurves.PNG" width="500"> 
+<img src="/docs/PRROCcurves.PNG" width="500">
+
+<em>Comparison of PR and ROC curves</em>
+
 <img src="/docs/res1.PNG" width="500">
 </p>
 
