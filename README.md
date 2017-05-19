@@ -1,3 +1,4 @@
-# ICIP 2017 Paper: Convolutional Neural Networks and Training Strategies for Skin Detection 
+# Convolutional Neural Networks and Training Strategies for Skin Detection (ICIP 2017)
+
 
 
