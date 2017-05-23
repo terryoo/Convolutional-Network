@@ -33,7 +33,11 @@ than the patch-based learning that focuses
 on local color and texture only.
 
 ## All Experimental results on ECU, Pratheepan, and HGR dataset
-Our results
+###Our method
+* Patch based VGG method
+* Patch based NiN method
+* Image based VGG method
+* Image based NiN method
 
 
 ## Quantitative and Subjective Results 
