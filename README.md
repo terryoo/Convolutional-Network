@@ -41,16 +41,15 @@ on local color and texture only.
 
 
 ## Quantitative and Subjective Results 
+* Comparison of PR and ROC curves
 <p align="center">
 <img src="/docs/PRROCcurves.PNG" width="400">
-
-<em>Comparison of PR and ROC curves</em>
 </p>
+
+* Visual comparison with outher methods on the Pratheepan dataset
 
 <p align="center">
 <img src="/docs/res1.PNG" width="500">
-
-<em>Visual comparison with outher methods on the Pratheepan dataset</em>
 </p>
 
 
