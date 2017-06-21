@@ -39,6 +39,8 @@ on local color and texture only.
 * Image based VGG method
 * Image based NiN method
 
+### Results
+*
 
 ## Quantitative and Subjective Results 
 * Comparison of PR and ROC curves
